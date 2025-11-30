@@ -1,4 +1,4 @@
-## **The Official `valone.cc` Network github**
+## **Official `valone.cc` Github**
 
 ###  Information ℹ️
 
